@@ -1,16 +1,13 @@
-### Step 1
+<?php
 
-Buat Migration
+// Step 1
 
-```
-php artisan migrate:make create_nerds_table --table=nerds --create
-```
+// Buat Migration
 
-```
+// php artisan migrate:make create_nerds_table --table=nerds --create
+
 
 // app/database/migrations/####_##_##_######_create_nerds_table.php
-
-<?php
 
 use IlluminateDatabaseSchemaBlueprint;
 use IlluminateDatabaseMigrationsMigration;

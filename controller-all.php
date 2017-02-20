@@ -1,8 +1,6 @@
-```
+<?php
 
 // app/controllers/NerdController.php
-
-<?php
 
 class NerdController extends BaseController {
 
@@ -81,5 +79,3 @@ class NerdController extends BaseController {
     }
 
 }
-
-```
